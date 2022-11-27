@@ -1046,3 +1046,35 @@ h4 {
         text-align: center;
     }
 }
+
+.headingChange {
+text-align: center;
+margin: auto;
+margin-bottom: 20px;
+font-size: 3.5rem;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.customerReview {
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    width: 70%;
+    font-size: 2rem;
+}
+
+.boldText {
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+
+.regText {
+    font-size: 1.8rem;
+}
